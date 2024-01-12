@@ -1,1 +1,1 @@
-alert("this page contains too much love for you and you may continue at your own risk");
+alert("this is alert");
